@@ -1,2 +1,2 @@
-# PySpark-Snippits
-Collection of PySpark Snippits
+# PySpark-Snippets
+Collection of PySpark Snippets
